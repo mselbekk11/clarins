@@ -18,6 +18,23 @@ body {
     border-bottom: 1px solid #ccc;
 }
 
+.logo {
+  display: inline-block;
+  float: right;
+  line-height: 0px;
+  margin-top: 9px;
+}
+
+.logo a {
+  line-height: 0px;
+  display: inline-block;
+}
+
+.logo img{
+  width: 70%;
+  float: right;
+}
+
 
 nav{
   /* position: absolute;
