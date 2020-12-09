@@ -6,9 +6,26 @@
     background-color: #fff;
   }
 
+    *:focus {
+       outline: none!important;
+    }
+
+
 #mobile-nav-placeholder {
     display: none;
 }
+
+.mobile-promo {
+    display: none;
+}
+
+.zmags-container {
+    max-width: 1250px!important;
+    margin: auto;
+    height: auto;
+    background: #fff!important;
+}
+
 
 @media only screen and (max-width: 768px) {
 
@@ -17,6 +34,14 @@
     }
 
     #nav-placeholder {
+        display: none;
+    }
+
+    .mobile-promo {
+        display: block;
+    }
+
+    .desktop-promo {
         display: none;
     }
 
