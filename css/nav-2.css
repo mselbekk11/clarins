@@ -14,7 +14,7 @@ body {
       max-width: 750px;
       margin: 0 auto;
       text-align: center;
-      margin-top: 40px;
+      /* margin-top: 40px; */
   }
   
   .navbar {
@@ -37,7 +37,7 @@ body {
   }
   
   .dropdown .dropbtn {
-    font-size: 11px;  
+    font-size: 13px;  
     border: none;
     outline: none;
     color: #000;
