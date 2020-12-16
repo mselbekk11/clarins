@@ -16,6 +16,7 @@ body {
     width: 100%;
     display: block;
     border-bottom: 1px solid #ccc;
+    z-index: 130!important;
 }
 
 .logo {
