@@ -16,7 +16,6 @@ body {
     width: 100%;
     display: block;
     border-bottom: 1px solid #ccc;
-    z-index: 130!important;
 }
 
 .logo {
@@ -91,7 +90,7 @@ nav ul{
   display: block;
   background-color: #fff;
   padding: 0px;
-  z-index: 20;
+  z-index: 140!important;
 }
 
 .menu.top {
